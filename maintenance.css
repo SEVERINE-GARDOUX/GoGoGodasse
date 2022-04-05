@@ -1,0 +1,12 @@
+* {margin: 0;
+  padding: 0;
+  background-image: url(./img-ico/under-water-ocean-evening-sunset-underwater-world-besthqwallpapers.com-1536x864.jpg);}
+
+h1 {font-size: 40px;
+    text-align: center;
+    color: #8D0133;}
+
+#counter {font-size: 25px;
+          width: 550px;
+          margin-top: 450px;
+          margin-left: 450px;}
