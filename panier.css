@@ -1,0 +1,47 @@
+* {margin: 0;
+    padding: 0;}
+ 
+header {background-color: #8D0133;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        font-size: 20px;}
+ 
+a {text-decoration: none;
+    color: white;}
+
+h1 {text-align: center;
+    margin-top: 25px;
+    color: #8D0133;
+    font-size: 50px;}
+
+p {font-size: 15px;
+   margin-left: 80px;}
+
+.price {font-size: 20px;}
+
+.contenair {height: 415px;
+            margin-top: 150px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;}
+
+img {margin-left: 100px;}
+
+button {width: 250px;
+        height: 25px;
+        border: none;
+        background-color: green;
+        color: white;
+        font-size: 20px;
+        margin-left: 200px;}
+
+.paiement {line-height: 2;}
+
+footer {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;}
