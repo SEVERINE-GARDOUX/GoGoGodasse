@@ -1,0 +1,27 @@
+* {margin: 0;
+   padding: 0;}
+
+body {background-image: url(./img-ico/light-bulbs-4k-minimal-brown-background-ideas-concept-besthqwallpapers.com-1536x864.jpg);}
+
+header {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;}
+
+a {text-decoration: none;
+   color: white;}
+
+h1 {color: #8D0133;
+   margin-left: 250px;
+   margin-top: 50px;}
+
+button {width: 250px;
+        height: 30px;
+        border-radius: 10px;
+        border: none;
+        background-color: #8D0133;
+        margin-left: 900px;
+        margin-top: 500px;
+        font-size: 20px;}

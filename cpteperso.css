@@ -1,0 +1,44 @@
+* {margin: 0;
+  padding: 0;}
+
+header {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;}
+
+a {text-decoration: none;
+   color: white;}
+
+h1 {text-align: center;
+    color: #8D0133;
+    margin-top: 30px;}
+
+h2 {color: #8D0133;}
+
+.contenair {height: 620px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            background-image: url(./img-ico/4k-old-paper-texture-macro-grunge-textures-retro-backgrounds-besthqwallpapers.com-1536x864.jpg);}
+
+.cde {display: flex;
+      justify-content: center;
+      align-items: center;}
+
+p {font-size: 30px;
+   background-color: #8D0133;
+   width: 65%;
+   height: 40%;
+   border-radius: 15px;
+   text-align: center;}
+
+.infos {display: flex;
+        flex-direction: column;
+        line-height: 1.5;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        font-weight: bolder;}
+
+.cpte {color: black;}
