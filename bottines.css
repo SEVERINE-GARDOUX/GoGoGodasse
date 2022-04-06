@@ -1,0 +1,35 @@
+* {margin: 0;
+    padding: 0;}
+ 
+ header {background-color: #8D0133;
+          height: 40px;
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+          color: white;
+          font-size: 20px;}
+ 
+ a {text-decoration: none;
+    color: white;}
+
+h1 {text-align: center;
+    color: #8D0133;}
+
+.articles {height: 590px;
+           background-image: url(./img-ico/golden-glitter-background-4k-glitter-patterns-golden-sparkles-golden-backgrounds-besthqwallpapers.com-1536x864.jpg);
+           display: flex;
+           justify-content: space-around;
+            align-items: center;}
+
+.prix {color: #8D0133;
+      font-weight: bold;}
+
+p {width: 250px;
+   font-weight: bold;}
+
+footer {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;}

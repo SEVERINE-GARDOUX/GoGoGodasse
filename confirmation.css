@@ -1,0 +1,33 @@
+* {margin: 0;
+    padding: 0;}
+ 
+header {background-color: #8D0133;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        font-size: 20px;}
+ 
+a {text-decoration: none;
+   color: white;}
+
+body {background-image: url(./img-ico/fireworks-independence-day-celebration-night-longview-lake-besthqwallpapers.com-1536x864.jpg);}
+
+h1 {margin-left: 50px;
+    margin-top: 100px;
+    color:#8D0133}
+
+.ok {margin-left: 700px;
+    margin-top: 150px;}
+
+p {font-size: 20px;
+   font-weight: bolder;
+    margin-left: 450px;
+    margin-top: 150px;}
+
+footer {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;}

@@ -1,0 +1,32 @@
+* {margin: 0;
+    padding: 0;}
+ 
+header {background-color: #8D0133;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        font-size: 20px;}
+ 
+a {text-decoration: none;
+   color: white;}
+
+body {line-height: 1.635;}
+h1 {text-align: center;
+    color: #8D0133;}
+
+h2 {color: #8D0133;
+    margin-left: 50px;
+    font-size: 30px;}
+
+p, li{margin-left: 50px;
+  font-size: 20px;}
+
+img {margin-left: 100px;}
+
+footer {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;}
