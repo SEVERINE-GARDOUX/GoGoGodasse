@@ -1,0 +1,37 @@
+* {margin: 0;
+    padding: 0;}
+  
+header {background-color: #8D0133;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        font-size: 20px;}
+  
+a {text-decoration: none;
+   color: white;}
+ 
+h1 {text-align: center;
+    color: #8D0133;}
+ 
+.articles {height: 590px;
+           background-image: url(./img-ico/warning-stripes-4k-diagonal-lines-grunge-backgrounds-warning-lines-besthqwallpapers.com-1536x864.jpg);
+           display: flex;
+           justify-content: space-around;
+           align-items: center;}
+ 
+.prix {color: #8D0133;
+        font-weight: bold;}
+ 
+p {background-color: rgba(163, 174, 4, 0.952);
+   width: 250px;
+   text-align: center;
+   font-weight: bold;}
+ 
+footer {background-color: #8D0133;
+        height: 40px;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;}
