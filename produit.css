@@ -16,3 +16,49 @@ h1 {text-align: center;
     color: #8D0133;
     margin-top: 20px;}
 
+h2 {color: #8D0133;}
+
+.article {height: 452px;
+         display: flex;
+         justify-content: space-around;
+         align-items: center;}
+
+.prix {color: #8D0133;
+       font-weight: bold;
+       font-size: 30px;
+       text-align: center;}
+
+p {width: 250px;}
+
+.vue1 {display: flex;
+       flex-direction: column;}
+
+.vue3 {line-height: 1.5;
+        font-size: larger;}
+
+.titre {font-size: 30px;}
+
+.select {font-size: 25px;
+        margin-left: 100px;}
+
+label {width: 250px;
+       font-size: 18px;
+       margin-left: 100px;}  
+
+button {width: 250px;
+        height: 35px;
+        border: none;
+        border-radius: 10px;
+        background-color: #8D0133;
+        color: white;
+        font-size: 20px;
+        margin-left: 980px;}
+
+.rtr {margin-left: 1420px;}
+
+footer {background-color: #8D0133;
+     height: 40px;
+     font-size: 20px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;}
