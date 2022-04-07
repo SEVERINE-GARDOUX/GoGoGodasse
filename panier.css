@@ -22,7 +22,7 @@ p {font-size: 15px;
 
 .price {font-size: 20px;}
 
-.contenair {height: 415px;
+.contenair {height: 361px;
             margin-top: 150px;
             display: grid;
             grid-template-columns: 1fr 1fr;}
@@ -38,6 +38,8 @@ button {width: 250px;
         margin-left: 200px;}
 
 .paiement {line-height: 2;}
+
+.rtr {margin-left: 1350px;}
 
 footer {background-color: #8D0133;
         height: 40px;
