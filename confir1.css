@@ -1,0 +1,13 @@
+* {margin: 0;
+   padding: 0;}
+
+body {background-image: url(./img-ico/wooden-puzzles-background-4k-macro-puzzles-textures-background-with-puzzles-besthqwallpapers.com-1536x864.jpg);}   
+
+.contenair {background-color: antiquewhite;
+    width: 40%;
+    height: 60px;
+    margin-left: 450px;
+    margin-top: 250px;
+    text-align: center;}
+
+.rtr {margin-left: 720px;}
