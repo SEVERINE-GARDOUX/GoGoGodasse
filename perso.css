@@ -1,0 +1,76 @@
+* {margin: 0;
+    padding: 0;}
+ 
+header {background-color: #8D0133;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        font-size: 20px;}
+ 
+a {text-decoration: none;
+    color: white;}
+ 
+h1 {text-align: center;
+     margin-top: 25px;
+     color: #8D0133;
+     font-size: 50px;}
+
+h3 {font-size: 25px;}
+
+.modif {display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        height: 496px;}
+
+#civilite {display: inline;}
+
+.mdp {display: flex;
+      flex-direction: column;
+      line-height: 1.2;
+      margin-left: 50px;}
+
+.btn {width: 200px;
+      font-size: 20px;}
+
+.info {width: 250px;
+       height: 20px;
+       border: 2px solid #8D0133;
+       border-radius: 10px;
+       text-align: center;}
+
+.coordonne {display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;}
+
+.adr {width: 350px;
+      display: flex;
+      flex-direction: column;
+      line-height: 1.5;
+      height: 25px;
+        border: 2px double #8D0133;}
+
+.cde {line-height: 1.5;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;}
+
+.relay {color: #8D0133;}
+
+footer {height: 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;}
+.new {font-size: 20px;}   
+.letter {width: 250px;
+         height: 25px;
+         border: none;
+         text-align: center;}
+button {background-color: #8D0133;
+        color: white;
+        width: 30px;
+        height: 30px;
+        border-radius: 20px;
+        border: none;}
