@@ -20,4 +20,32 @@ p {font-size: 20px;
     margin-left: 50px;}
 
 form {margin-left: 50px;
-      font-size: 20px;}
+      font-size: 20px;
+      line-height: 2;
+      height: 400px;}
+
+.btn {width: 150px;
+        height: 25px;
+        border: none;
+        background-color: #8D0133;
+        color: white;
+        font-size: 20px;
+        margin-left: 200px;}
+
+footer {height: 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;}
+
+.new {font-size: 20px;}   
+.letter {width: 250px;
+        height: 25px;
+        border: none;
+        text-align: center;}
+
+button {background-color: #8D0133;
+        color: white;
+        width: 30px;
+        height: 30px;
+        border-radius: 20px;
+        border: none;}

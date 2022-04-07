@@ -7,7 +7,7 @@ header {background-color: #8D0133;
         height: 40px;
         font-size: 20px;
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
         align-items: center;}
 
 a {text-decoration: none;
@@ -32,6 +32,7 @@ input {width: 300px;
        border: 2px solid #8D0133;
        text-align: center;
        background-color: rgba(246, 139, 81, 0.671);}
+
 input::placeholder {color: #8D0133;}
 
 button {width: 200px;
