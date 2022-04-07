@@ -15,11 +15,11 @@ a {text-decoration: none;
 h1 {text-align: center;
     color: #8D0133;}
 
-    .articles {height: 590px;
-        background-image: url(./img-ico/painted-brick-wall-brick-texture-brick-wall-colorful-bricks-brick-background-besthqwallpapers.com-1536x864.jpg);
-        display: flex;
-        justify-content: space-around;
-        align-items: center;}
+.articles {height: 590px;
+           background-image: url(./img-ico/painted-brick-wall-brick-texture-brick-wall-colorful-bricks-brick-background-besthqwallpapers.com-1536x864.jpg);
+           display: flex;
+           justify-content: space-around;
+           align-items: center;}
 
 .prix {color: #8D0133;
    font-weight: bold;}
