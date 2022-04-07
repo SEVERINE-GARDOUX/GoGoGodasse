@@ -24,6 +24,8 @@ form {margin-left: 50px;
       line-height: 2;
       height: 400px;}
 
+#mess {text-align:inherit}
+
 input {width: 300px;}
 
 .btn {width: 150px;
