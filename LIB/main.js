@@ -10,9 +10,9 @@ import {displayHtml} from './dom.js'
 
 displayHtml('h1', 'voici ma 1ere lib')
 
-import { displayHtmlendStyle } from './dom.js'
+import { displayHtmlAndStyle } from './dom.js'
 
-displayHtmlendStyle('h1', 'voici ma 1ere lib', {
+displayHtmlAndStyle('h1', 'voici ma 1ere lib', {
     color: 'green', 
     fontSize: '35px'
 })
