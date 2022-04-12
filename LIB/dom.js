@@ -7,7 +7,7 @@ export function displayHtml (selector, html) {
 }
 
 export function displayHtmlendStyle (selector, html, style) {
-    displayHtml(selecto, html)
+    displayHtml(selector, html)
     getDom(selector).style.color = style.color
     getDom(selector).style.fontSize = style.fontSize
 }
