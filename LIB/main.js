@@ -14,5 +14,5 @@ import { displayHtmlendStyle } from './dom.js'
 
 displayHtmlendStyle('h1', 'voici ma 1ere lib', {
     color: 'green', 
-    fontSize: '25px'
+    fontSize: '35px'
 })
