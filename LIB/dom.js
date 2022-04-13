@@ -3,7 +3,8 @@ export function getDom (selector) {
 }
 
 export function displayHtml (selector, html) {
-    getDom(selector).innerHtml = html
+    console.log('salut')
+    getDom(selector).innerHTML = html
 }
 
 export function displayHtmlAndStyle (selector, html, style) {

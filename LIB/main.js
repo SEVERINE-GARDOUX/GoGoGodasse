@@ -1,16 +1,15 @@
 // alert()
 
 import {notEmpty} from './validateur.js'
+import {displayHtml} from './dom.js'
+import { displayHtmlAndStyle } from './dom.js'
 
-const validation = notEmpty()
+const validation = notEmpty(5)
 console.log(validation)
 
 
-import {displayHtml} from './dom.js'
-
 displayHtml('h1', 'voici ma 1ere lib')
 
-import { displayHtmlAndStyle } from './dom.js'
 
 displayHtmlAndStyle('h1', 'voici ma 1ere lib', {
     color: 'green', 
