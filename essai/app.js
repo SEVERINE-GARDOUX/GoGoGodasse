@@ -12,13 +12,13 @@ admin.initializeApp({
 
 const db = getFirestore();
 
-async function add() {
-    const res = await db.collection('cities').add({
-        name: 'Tokyo',
-        country: 'Japan'
-})
+async function add(collection, data) {
+    const res = await db.collection(collection).add(data)
 }
-add()
+add ('chaussures', {
+        brend: 'Adidas',
+        price: '50€'
+}) 
 
 app.get('/', (req, res) => {
   res.send('Vive des vacances!')
